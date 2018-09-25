@@ -7,9 +7,9 @@
 [https://develop.aliyun.com/tools/openapilist](https://develop.aliyun.com/tools/openapilist)
 
 ## install
-``
+```
 npm install aliyun-apisign --save
-``
+```
 
 ## use
 ```js
