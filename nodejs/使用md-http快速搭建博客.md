@@ -23,8 +23,8 @@ markdown文件路径 默认当前目录
 
 
 ## 快速开启服务
-![md-http](../img/md-http.gif)
+![md-http](https://hdpublic.getlove.cn/5bdaee16948c7e5bb482b21d.gif)
 
 ## pm2 启动
 	pm2 start md-http -- --port 9003 --path="your/md/path"
-![md-http-pm2](../img/md-http-pm2.gif)
+![md-http-pm2](https://hdpublic.getlove.cn/5bdaee21948c7e5bb482b21e.gif)
