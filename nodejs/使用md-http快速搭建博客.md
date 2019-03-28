@@ -1,5 +1,3 @@
-# 使用md-http快速搭建博客
-
 md-http是在2017年七月使用nodejs开发的通过http快速访问markdown的程序。依赖nodejs环境。
 
 github:[https://github.com/liuyinglong/md-server](https://github.com/liuyinglong/md-server)  
