@@ -12,6 +12,10 @@
 
 `https://account.getlove.cn/apiGetWay/5c889fded32e2a105ab0aaf3`
 
+**示例代码**
+
+[https://github.com/liuyinglong/api_get_way_demo/blob/master/example/apod.js](https://github.com/liuyinglong/api_get_way_demo/blob/master/example/apod.js )
+
 ### 一、请求每月数据
 
 #### 1、请求路径(请再路径前拼接服务器地址)

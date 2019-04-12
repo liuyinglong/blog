@@ -1,12 +1,18 @@
 ### 说明
 
-根据 作者姓名/诗词标题/诗句 来查找到对应的诗词的详细类容。如此接口不能满足你的服务的需求，可以通过[http://blog.getlove.cn/article/5b289d7980ca8b10b8a173a3](http://blog.getlove.cn/article/5b289d7980ca8b10b8a173a3)链接下的联系方式和我联系进行接口定制或者诗词数据库的购买。
+提供中国诗词相关接口，如诗词搜索，诗词详情，作者搜索，作者详情等。
+
+如果现在所提供的接口不能满足你的要求，可以通过[http://blog.getlove.cn/article/5b289d7980ca8b10b8a173a3](http://blog.getlove.cn/article/5b289d7980ca8b10b8a173a3)联系我进行接口定制或者数据库的购买。
 
 **公共请求参数及接口签名：[http://blog.getlove.cn/article/5c88d875641ec410596f3969](http://blog.getlove.cn/article/5c88d875641ec410596f3969)**
 
 **服务器地址**
 
 `https://account.getlove.cn/apiGetWay/5b010c7445657b2b64ada7a2` 
+
+**示例代码（nodejs）**
+
+[https://github.com/liuyinglong/api_get_way_demo/blob/master/example/poetry.js ](https://github.com/liuyinglong/api_get_way_demo/blob/master/example/poetry.js )
 
 ### 一、根据关键词搜索内容
 

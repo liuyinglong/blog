@@ -8,7 +8,9 @@
 
 `https://account.getlove.cn/apiGetWay/5c889fded32e2a105ab0aaf3`
 
+**示例代码（nodejs）**
 
+[https://github.com/liuyinglong/api_get_way_demo/blob/master/example/mars_over.js ](https://github.com/liuyinglong/api_get_way_demo/blob/master/example/mars_over.js )
 
 ### 一、获取漫游车拍摄的图片
 
